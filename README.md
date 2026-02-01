@@ -7,3 +7,4 @@ git clone https://github.com/AayushGupta56/FilterIt
 cd FilterIt
 cargo install --path .
 FilterIt -i input.jpg -f sepia -o out.png
+FilterIt -i input.jpg -f grayscale -o out.png
